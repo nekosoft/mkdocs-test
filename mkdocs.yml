@@ -1,0 +1,7 @@
+site_name: mkdocs-test
+site_url: https:/nekosoft.github.io/mkdocs-test/
+nav:
+    - Home: index.md
+
+
+theme: readthedocs
